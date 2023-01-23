@@ -1,0 +1,8 @@
+.banner {
+  background-image: url(../images/banner.png);
+  height: 540px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  opacity: 4;
+}
